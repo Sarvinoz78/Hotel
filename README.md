@@ -22,5 +22,5 @@
 1. Клонируйте репозиторий на свой локальный компьютер:
 
 ```bash
-git clone https://github.com/your-username/hotel-booking.git
-cd hotel-booking
+git clone https://github.com/your-username/Hotel.git
+cd Hotel
