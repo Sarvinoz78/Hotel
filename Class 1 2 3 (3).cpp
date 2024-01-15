@@ -20,7 +20,7 @@ class BookingHotelg{
          
         void inputNumberOfHotelBooking(){
           cout<< "Can you tell me where the hotel you want to book is located.";
-          cin >> Place;
+          cin >> Hotel;
         } 
 };
 
@@ -36,13 +36,13 @@ class OrderingTicket{
 
 int main()
 {
-	Company myCompany;
-	myCompany.inputCompany();
+	Company Company;
+	Company.inputCompany();
 	
-  BookingHotel myHotel;
+  BookingHotel Hotel;
   Hotel.inputBookingHotel();
     
-  OrderingTicket myTicket;
+  OrderingTicket Ticket;
   Ticket.inputOrderingTicket();
     
 	
