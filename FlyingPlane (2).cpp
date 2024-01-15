@@ -36,13 +36,13 @@ class FlyingClass{
 
 int main()
 {
-	FlyingDay myDay;
-	myDay.inputFlyingDay();
+	FlyingDay Day;
+	Day.inputFlyingDay();
 	
-  FlyingTime myTime;
+  FlyingTime Time;
   Time.inputFlyingDay();
     
-  FlyingClass myClass;
+  FlyingClass Class;
   Class.inputFlyingClass();
     
 	
