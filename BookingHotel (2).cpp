@@ -36,13 +36,13 @@ class RoomLevel{
 
 int main()
 {
-	DayBooking myDay;
-	myDay.inputdaBooking();
+	DayBooking Day;
+	Day.inputdaBooking();
 	
-  NumbarofPerson myPerson;
+  NumbarofPerson Person;
   Person.inputNumberOfPerson();
     
-  RoomLevel myLevel;
+  RoomLevel Level;
   Level.inputRoomLevel();
     
 	
